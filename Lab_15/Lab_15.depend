@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1555216634 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1555216163 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1555216080 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\stacktype.h
+
+1555215990 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\quetype.h
+
+1555216080 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1555216080 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1555216080 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1555216080 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1555217202 source:f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\main.cpp
+	"graphtype.cpp"
+	"quetype.h"
+
+1555216634 f:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1555216634 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1555216163 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1555216080 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\stacktype.h
+
+1555215990 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\quetype.h
+
+1555216080 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
+1555216080 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1555217202 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\main.cpp
+	"graphtype.cpp"
+	"quetype.h"
+
+1555216634 g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1555216080 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1555216080 source:g:\study material\6(spring 2019)\cse 225\cse 225 lab\assignment's\lab_15\stacktype.cpp
+	<iostream>
+	"stacktype.h"
+
